@@ -25,6 +25,8 @@ This repository provides an empirical framework to test:
 ## Key Empirical Finding
 Supply shortfalls ($\text{Wind Error} < 0$) during high-demand ramp hours induce substantial positive balancing price spreads. During tested intervals (September 2026), an evening wind shortfall of 446.5 MW produced an imbalance price spike to €366.79/MWh (+€166.69/MWh spread above DAM clearing levels).
 
+![Wind Forecast Error vs Imbalance Spread](assets/forecast_error_vs_spread.png)
+
 ## Project Structure
 ```text
 pw_mkt/
